@@ -33,3 +33,5 @@ fields:
   type: boolean
   hidden: false
   default: ''
+pages:
+- docs/blog/2019-01-04/cats-vs-dogs.md
