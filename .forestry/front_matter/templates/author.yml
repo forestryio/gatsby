@@ -1,0 +1,30 @@
+---
+label: Author
+hide_body: true
+fields:
+- name: Author
+  label: Author
+  type: field_group_list
+  fields:
+  - name: id
+    label: Id
+    type: text
+    hidden: false
+    default: ''
+  - name: bio
+    label: Bio
+    type: text
+    hidden: false
+    default: ''
+  - name: avatar
+    label: Avatar
+    type: text
+    hidden: false
+    default: ''
+  - name: twitter
+    label: Twitter
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
